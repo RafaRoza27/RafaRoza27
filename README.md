@@ -8,7 +8,7 @@
 
 ![Rafael Rosa GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaRoza27&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raf)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaRoza27)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que uso no meu dia
 
